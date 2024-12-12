@@ -8,6 +8,7 @@ version = "0.14.3"
 authors = ["Niko Matsakis <niko@alum.mit.edu>"]
 readme = "README.md"
 keywords = ["unification", "union-find"]
+edition = "2015"
 
 [features]
 bench = [ ]
